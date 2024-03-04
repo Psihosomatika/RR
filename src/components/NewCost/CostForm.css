@@ -24,3 +24,6 @@
 .new-cost__actions {
   text-align: left;
 }
+.button {
+  background-color: var(--color-primary);
+}
